@@ -276,14 +276,14 @@ textarea {
     }
 
     .athlete-photo {
-        top: 20%;
+        top: 5%;
         left: 10%;
         transform: scale(2);
     }
 
     .image-container {
         height: 115vh;
-        top: -45%;
+        top: -35%;
         margin-bottom: -315px;
     }
 
